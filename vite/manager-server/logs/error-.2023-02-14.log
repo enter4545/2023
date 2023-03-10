@@ -1,0 +1,84 @@
+[2023-02-14T12:31:57.809] [ERROR] error - ReferenceError: ctx is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:26:3
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2023-02-14T12:48:29.649] [ERROR] error - ReferenceError: ctx is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:26:3
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2023-02-14T12:48:32.440] [ERROR] error - ReferenceError: ctx is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:26:3
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2023-02-14T12:48:33.082] [ERROR] error - ReferenceError: ctx is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:26:3
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2023-02-14T12:48:55.826] [ERROR] error - ReferenceError: ctx is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:26:3
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2023-02-14T12:48:56.593] [ERROR] error - ReferenceError: ctx is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:26:3
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2023-02-14T12:48:56.769] [ERROR] error - ReferenceError: ctx is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:26:3
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2023-02-14T12:48:56.976] [ERROR] error - ReferenceError: ctx is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:26:3
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2023-02-14T12:49:11.951] [ERROR] error - ReferenceError: ctx is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:26:3
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2023-02-14T12:49:12.495] [ERROR] error - ReferenceError: ctx is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:26:3
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2023-02-14T12:49:12.745] [ERROR] error - ReferenceError: ctx is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:26:3
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2023-02-14T12:49:12.912] [ERROR] error - ReferenceError: ctx is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:26:3
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2023-02-14T12:49:13.249] [ERROR] error - ReferenceError: ctx is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:26:3
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-bodyparser\index.js:95:5)
+[2023-02-14T12:49:13.440] [ERROR] error - ReferenceError: ctx is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:26:3
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-bodyparser\index.js:95:5)

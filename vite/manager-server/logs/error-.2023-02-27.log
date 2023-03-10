@@ -1,0 +1,309 @@
+[2023-02-27T13:05:29.667] [ERROR] error - TypeError: Cannot read property '_doc' of null
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:15:20
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+[2023-02-27T13:05:45.657] [ERROR] error - TypeError: Cannot read property '_doc' of null
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:15:20
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+[2023-02-27T13:05:47.199] [ERROR] error - TypeError: Cannot read property '_doc' of null
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:15:20
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+[2023-02-27T13:05:48.384] [ERROR] error - TypeError: Cannot read property '_doc' of null
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:15:20
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+[2023-02-27T13:05:55.008] [ERROR] error - TypeError: Cannot read property '_doc' of null
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:15:20
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+[2023-02-27T13:07:29.089] [ERROR] error - TypeError: Cannot read property '_doc' of null
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:15:20
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+[2023-02-27T13:07:30.669] [ERROR] error - TypeError: Cannot read property '_doc' of null
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:15:20
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+[2023-02-27T13:07:30.854] [ERROR] error - TypeError: Cannot read property '_doc' of null
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:15:20
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+[2023-02-27T13:07:31.247] [ERROR] error - TypeError: Cannot read property '_doc' of null
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:15:20
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+[2023-02-27T13:07:31.405] [ERROR] error - TypeError: Cannot read property '_doc' of null
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:15:20
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+[2023-02-27T13:07:31.580] [ERROR] error - TypeError: Cannot read property '_doc' of null
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:15:20
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+[2023-02-27T16:28:07.412] [ERROR] error - TokenExpiredError: jwt expired
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:190:21
+    at getSecret (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:97:14)
+    at Object.module.exports [as verify] (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:101:10)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:46:20
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-views@6.3.1@koa-views\src\index.js:91:12) {
+  expiredAt: 2023-02-27T08:27:24.000Z
+}
+[2023-02-27T16:30:08.317] [ERROR] error - TokenExpiredError: jwt expired
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:190:21
+    at getSecret (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:97:14)
+    at Object.module.exports [as verify] (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:101:10)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:46:20
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-views@6.3.1@koa-views\src\index.js:91:12) {
+  expiredAt: 2023-02-27T08:27:24.000Z
+}
+[2023-02-27T16:33:41.990] [ERROR] error - TokenExpiredError: jwt expired
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:190:21
+    at getSecret (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:97:14)
+    at Object.module.exports [as verify] (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:101:10)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:46:20
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-views@6.3.1@koa-views\src\index.js:91:12) {
+  expiredAt: 2023-02-27T08:30:54.000Z
+}
+[2023-02-27T16:47:23.629] [ERROR] error - TokenExpiredError: jwt expired
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:190:21
+    at getSecret (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:97:14)
+    at Object.module.exports [as verify] (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:101:10)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:46:20
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-views@6.3.1@koa-views\src\index.js:91:12) {
+  expiredAt: 2023-02-27T08:30:54.000Z
+}
+[2023-02-27T16:48:22.333] [ERROR] error - TokenExpiredError: jwt expired
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:190:21
+    at getSecret (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:97:14)
+    at Object.module.exports [as verify] (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:101:10)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:46:20
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-views@6.3.1@koa-views\src\index.js:91:12) {
+  expiredAt: 2023-02-27T08:48:09.000Z
+}
+[2023-02-27T16:48:26.227] [ERROR] error - TokenExpiredError: jwt expired
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:190:21
+    at getSecret (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:97:14)
+    at Object.module.exports [as verify] (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:101:10)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:46:20
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-views@6.3.1@koa-views\src\index.js:91:12) {
+  expiredAt: 2023-02-27T08:48:09.000Z
+}
+[2023-02-27T16:49:39.741] [ERROR] error - TokenExpiredError: jwt expired
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:190:21
+    at getSecret (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:97:14)
+    at Object.module.exports [as verify] (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:101:10)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:46:20
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-views@6.3.1@koa-views\src\index.js:91:12) {
+  expiredAt: 2023-02-27T08:49:11.000Z
+}
+[2023-02-27T16:50:32.300] [ERROR] error - TokenExpiredError: jwt expired
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:190:21
+    at getSecret (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:97:14)
+    at Object.module.exports [as verify] (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:101:10)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:46:20
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-views@6.3.1@koa-views\src\index.js:91:12) {
+  expiredAt: 2023-02-27T08:49:11.000Z
+}
+[2023-02-27T16:52:02.682] [ERROR] error - TokenExpiredError: jwt expired
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:190:21
+    at getSecret (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:97:14)
+    at Object.module.exports [as verify] (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:101:10)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:46:20
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-views@6.3.1@koa-views\src\index.js:91:12) {
+  expiredAt: 2023-02-27T08:49:11.000Z
+}
+[2023-02-27T16:52:03.728] [ERROR] error - TokenExpiredError: jwt expired
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:190:21
+    at getSecret (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:97:14)
+    at Object.module.exports [as verify] (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_jsonwebtoken@9.0.0@jsonwebtoken\verify.js:101:10)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:46:20
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-router@7.4.0@koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-views@6.3.1@koa-views\src\index.js:91:12) {
+  expiredAt: 2023-02-27T08:49:11.000Z
+}
+[2023-02-27T20:51:32.204] [ERROR] error - ReferenceError: util is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:39:18
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:37:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+[2023-02-27T20:51:39.853] [ERROR] error - ReferenceError: util is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:39:18
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:37:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+[2023-02-27T20:51:54.109] [ERROR] error - ReferenceError: util is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:39:18
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:37:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+[2023-02-27T20:52:53.312] [ERROR] error - ReferenceError: util is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:39:18
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:37:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+[2023-02-27T20:52:54.365] [ERROR] error - ReferenceError: util is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:39:18
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:37:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+[2023-02-27T20:52:54.583] [ERROR] error - ReferenceError: util is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:39:18
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:37:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+[2023-02-27T20:52:54.776] [ERROR] error - ReferenceError: util is not defined
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:39:18
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:37:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-static@5.0.0@koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-logger@3.2.1@koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)

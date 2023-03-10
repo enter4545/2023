@@ -1,0 +1,238 @@
+[2023-02-23T19:53:30.282] [ERROR] error - MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\connection.js:825:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:411:10
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:1285:10)
+    at Mongoose.connect (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:410:20)
+    at main (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:7:20)
+    at Object.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:10:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:93:18)
+    at Object.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\app.js:17:1) {
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { '127.0.0.1:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined
+}
+[2023-02-23T19:53:46.632] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T19:53:49.601] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T19:53:50.204] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T19:53:53.937] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T19:53:54.697] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T19:53:54.930] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T19:53:57.066] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T19:54:01.623] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T19:54:02.572] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T19:54:03.098] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T19:54:03.314] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T19:54:03.513] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T19:54:13.736] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T19:54:15.053] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T19:59:05.092] [ERROR] error - MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at NativeConnection.Connection.openUri (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\connection.js:825:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:411:10
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:1285:10)
+    at Mongoose.connect (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:410:20)
+    at main (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:7:20)
+    at Object.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:10:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:93:18)
+    at Object.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\app.js:17:1) {
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { '127.0.0.1:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined
+}
+[2023-02-23T20:00:36.684] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T20:00:40.763] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T20:00:41.476] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T20:00:41.677] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T20:00:55.977] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T20:00:57.061] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T20:00:57.263] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T20:00:57.462] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T20:00:58.114] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T20:00:58.368] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T20:01:03.991] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T20:01:05.062] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T20:01:05.265] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T20:01:05.463] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}
+[2023-02-23T20:01:06.119] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (internal/timers.js:557:17)
+    at processTimers (internal/timers.js:500:7) {
+  headerSent: true
+}

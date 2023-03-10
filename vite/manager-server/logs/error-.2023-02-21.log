@@ -1,0 +1,284 @@
+[2023-02-21T11:18:53.142] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:7:43
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:35:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+[2023-02-21T11:25:37.972] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:7:43
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:35:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+[2023-02-21T11:25:55.900] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:7:43
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:35:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+[2023-02-21T11:25:56.467] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:7:43
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:35:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+[2023-02-21T11:25:56.709] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:7:43
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:35:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+[2023-02-21T11:25:57.099] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:7:43
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:35:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+[2023-02-21T11:25:57.470] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:7:43
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:35:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+[2023-02-21T11:25:57.651] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:7:43
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:35:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+[2023-02-21T11:27:23.726] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:7:43
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:35:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+[2023-02-21T11:32:25.597] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:7:43
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:35:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+[2023-02-21T11:32:36.782] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:7:43
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:35:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+[2023-02-21T11:59:13.695] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:7:43
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:35:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+[2023-02-21T11:59:23.967] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'body')
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:7:43
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:351:31)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-router\lib\router.js:332:32)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\app.js:35:9
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at views (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+    at serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:15)
+    at dispatch (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-compose\index.js:42:32)
+[2023-02-21T12:01:57.752] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[2023-02-21T12:03:39.193] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[2023-02-21T12:06:12.660] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[2023-02-21T12:15:24.290] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[2023-02-21T12:21:17.963] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[2023-02-21T12:52:38.512] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[2023-02-21T12:54:01.022] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[2023-02-21T14:24:46.193] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[2023-02-21T14:25:25.078] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[2023-02-21T14:58:17.422] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[2023-02-21T14:58:25.895] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[2023-02-21T15:01:46.033] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[2023-02-21T15:02:08.882] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[2023-02-21T15:03:19.383] [ERROR] error - MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\drivers\node-mongodb-native\collection.js:175:23)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[2023-02-21T15:06:45.221] [ERROR] error - TypeError: Cannot read properties of null (reading '_doc')
+    at E:\VSC\马士兵\Vue3\vite\manager-server\routes\users.js:13:20
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async E:\VSC\马士兵\Vue3\vite\manager-server\app.js:38:3
+    at async serve (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-static\index.js:53:9)
+    at async logger (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-logger\index.js:67:7)
+    at async bodyParser (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\koa-bodyparser\index.js:95:5)

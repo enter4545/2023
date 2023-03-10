@@ -1,0 +1,196 @@
+[2023-02-20T15:05:34.059] [ERROR] error - MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongodb-connection-string-url@2.6.0@mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongodb@4.13.0@mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongodb@4.13.0@mongodb\lib\mongo_client.js:46:63)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\connection.js:799:19)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:411:10
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:1285:10)
+    at Mongoose.connect (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:410:20)
+    at main (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:7:20)
+    at Object.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:10:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+[2023-02-20T15:07:57.512] [ERROR] error - MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongodb-connection-string-url@2.6.0@mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongodb@4.13.0@mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongodb@4.13.0@mongodb\lib\mongo_client.js:46:63)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\connection.js:799:19)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:411:10
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:1285:10)
+    at Mongoose.connect (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:410:20)
+    at main (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:7:20)
+    at Object.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:10:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+[2023-02-20T15:11:22.727] [ERROR] error - MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongodb-connection-string-url@2.6.0@mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongodb@4.13.0@mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongodb@4.13.0@mongodb\lib\mongo_client.js:46:63)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\connection.js:799:19)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:411:10
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:1285:10)
+    at Mongoose.connect (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:410:20)
+    at main (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:7:20)
+    at Object.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:10:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+[2023-02-20T15:13:43.233] [ERROR] error - MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongodb-connection-string-url@2.6.0@mongodb-connection-string-url\lib\index.js:86:19)
+    at parseOptions (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongodb@4.13.0@mongodb\lib\connection_string.js:201:17)
+    at new MongoClient (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongodb@4.13.0@mongodb\lib\mongo_client.js:46:63)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\connection.js:802:16
+    at new Promise (<anonymous>)
+    at Connection.openUri (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\connection.js:799:19)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:411:10
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:1285:10)
+    at Mongoose.connect (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:410:20)
+    at main (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:7:20)
+    at Object.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:10:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+[2023-02-20T15:21:16.189] [ERROR] error - MongooseServerSelectionError: getaddrinfo ENOTFOUND localhoost
+    at Connection.openUri (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\connection.js:825:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:411:10
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:1285:10)
+    at Mongoose.connect (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:410:20)
+    at main (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:7:20)
+    at Object.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:10:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\app.js:9:1) {
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhoost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined
+}
+[2023-02-20T15:23:38.587] [ERROR] error - MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at Connection.openUri (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\connection.js:825:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:411:10
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:1285:10)
+    at Mongoose.connect (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:410:20)
+    at main (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:7:20)
+    at Object.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:10:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\app.js:9:1) {
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined
+}
+[2023-02-20T15:24:50.860] [ERROR] error - MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at Connection.openUri (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\connection.js:825:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:411:10
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:1285:10)
+    at Mongoose.connect (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:410:20)
+    at main (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:7:20)
+    at Object.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:10:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\app.js:9:1) {
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined
+}
+[2023-02-20T15:29:39.085] [ERROR] error - MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at Connection.openUri (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\connection.js:825:32)
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:411:10
+    at E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\helpers\promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:1285:10)
+    at Mongoose.connect (E:\VSC\马士兵\Vue3\vite\manager-server\node_modules\_mongoose@6.9.2@mongoose\lib\index.js:410:20)
+    at main (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:7:20)
+    at Object.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\config\db.js:10:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (E:\VSC\马士兵\Vue3\vite\manager-server\app.js:9:1) {
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined
+}
