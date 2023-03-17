@@ -9,6 +9,7 @@ const log4js = require("./utils/log4j");
 const router = require('koa-router')();
 const index = require('./routes/index')
 const users = require('./routes/users')
+const menus = require("./routes/menus")
 const jwt = require('koa-jwt');
 const utils = require("./utils/index")
 
@@ -54,7 +55,7 @@ router.get("/notify/count",(ctx)=>{
 });
 
 router.use(users.routes());
-
+router.use(menus.routes(),menus.allowedMethods());
 // routes
 app.use(index.routes(), index.allowedMethods())
 app.use(router.routes(), users.allowedMethods())

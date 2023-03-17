@@ -124,7 +124,7 @@ import { ElMessage } from "element-plus";
 const user = reactive({
     userId:"",
     userName:"",
-    state:0
+    state:1
 })
 
 const ruleFormRef = ref();
@@ -136,7 +136,7 @@ const title = ref("用户新增");
 const allRolesList = reactive([]);
 const allDeptList = reactive([]);
 
-const tableData = reactive([]);
+let  tableData = ref();
 const pager = reactive({
   pageNum:1,
   pageSize:10
@@ -200,7 +200,7 @@ async function getUserList(){
   let params = {...user,...pager}
   const res = await userList(params);
   const {list,page} = res.data.data;
-  tableData.push(...list);
+  tableData.value = list;
   pager.total = page.total;
 }
 
@@ -243,6 +243,7 @@ async function handleBatchDelete(){
 
 let res = new Map();
 function handleSelectionsChange(list){
+  console.log(111)
 list.filter(item =>{
   if(!res.has(item["userId"])){
     res.set(item["userId"],1)
@@ -277,8 +278,9 @@ function handleSubmit(formEle){
       params.userEmail += "@mashibing.com";
       params.action = action.value;
       const res = await operate(params);
-      //operate 编辑
-      if(res.status === 200){
+      console.log(res)
+      //operate 编辑 
+      if(res.status === 200 && res.data.code == 200){
         centerDialogVisible.value = false;
         //确认一下，是编辑还是新增，给个提示
         const message = action.value === "edit" ? "修改成功" : "新增用户成功"
@@ -287,7 +289,8 @@ function handleSubmit(formEle){
         getUserList();
        }
       }
-    })
+    }
+    );
 }
 
 // 编辑 按钮点击函数

@@ -28,7 +28,7 @@ instance.interceptors.response.use(function (response) {
     const {code,msg} = response.data;
     if(code === 200){
         response.data;
-    }else if(code === 20001){
+    }else if(code === 40001){
         ElMessage.error(msg);
         setTimeout(()=>{
           router.push('/login')

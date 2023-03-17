@@ -1,3 +1,5 @@
+const log4js = require("./log4j")
+
 const CODE = {      //状态码  Http 状态码
     SUCCESS:200,
     PARAM_ERROR:10001,   //参数错误

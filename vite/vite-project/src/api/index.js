@@ -11,8 +11,8 @@ export function notify(){
     return request.get("/notify/count",true);
 }
 
-export function menuList(){
-    return request.get("/menu/list",true)
+export function menuList(params){
+    return request.get("/menu/list",params)
 }
 
 export function userList(params){
@@ -20,7 +20,7 @@ export function userList(params){
 }
 
 export function userDelete(params){
-    return request.post("/user/delete",params,true)
+    return request.post("/user/delete",params)
 }
 
 export function rolesList(){
@@ -36,3 +36,7 @@ export function operate(params){
     return request.post("/user/operate",params)
 }
 
+//菜单的编辑 删除 创建
+export function menuOperate(params){
+    return request.post("/menu/operate",params)
+}

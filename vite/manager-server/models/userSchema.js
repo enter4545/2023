@@ -3,6 +3,7 @@ const userSchema = mongoose.Schema({
     userId:Number,
     userName:String,
     userEmail:String,
+    password:String,
     state:{
         type:Number,
         default:1,//  1在职  2离职  3试用期
@@ -15,6 +16,7 @@ const userSchema = mongoose.Schema({
         default:1   // 1系统管理员   2用户
     },
     roleList:[],   //哪些系统角色
+    deptId:[],
     createTime:{
         type:Date,
         default:new Date()
